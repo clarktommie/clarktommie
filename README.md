@@ -1,71 +1,61 @@
-# Tommie Clark  
-**Risk Modeling | Data Science | Machine Learning Systems**
+# Tommie Clark
+### Modeling risk where decisions have consequences.
 
-Data scientist focused on financial risk analysis, underwriting support systems, and applied machine learning.  
-I build structured data pipelines, predictive models, and analytical dashboards designed to support decision-making in regulated and high-impact environments.
-
----
-
-## Focus Areas
-
-- Loan underwriting risk modeling  
-- Fraud detection and financial analytics  
-- Regression and classification systems  
-- Policy-informed geospatial analysis  
-- ETL pipelines and structured data workflows  
+I build practical machine learning and analytics systems for underwriting, fraud, and financial decision support.
+My lane is clear: structured data, defensible models, and outputs that people can actually use in production.
 
 ---
 
-## Technical Stack
+## What I Work On
 
-**Languages & Tools**
-- Python (Pandas, NumPy, Scikit-Learn)
-- SQL (PostgreSQL, Supabase)
-- Jupyter, VS Code
-- Git / GitHub
-
-**Modeling**
-- Linear & Multiple Regression  
-- Decision Trees / Ensemble Methods  
-- Feature Engineering & Selection  
-- Risk segmentation analysis  
-
-**Data Systems**
-- ETL pipeline design  
-- Structured storage (Postgres / Supabase)  
-- Data cleaning & validation workflows  
+- Underwriting risk modeling
+- Fraud analytics and anomaly detection
+- Regression/classification pipelines
+- ETL and data quality workflows
+- Thin-data and edge-case decision scenarios
 
 ---
 
-## Selected Projects
+## Current Build Pattern
 
-### Fraud Detection Analysis  
-Fraud-related data scraping, cleaning, and analysis using Python.  
-Focus on structured extraction, summarization, and risk-oriented insights.  
-[View Repository](https://github.com/clarktommie/usaa_fraud_detection)
+`Raw data -> validation -> feature engineering -> model training -> evaluation -> decision signal`
 
----
-
-### Capstone Project 2026  
-Comprehensive analytical project involving structured datasets, modeling, and evaluation.  
-Focus on measurable performance and interpretability.  
-[View Repository](https://github.com/clarktommie/capstoneProject2026)
+I care less about flashy models and more about reliable behavior, interpretability, and measurable lift.
 
 ---
 
-### PPE Detection Model  
-Computer vision classification model for object detection scenarios.  
-[View Repository](https://github.com/clarktommie/PPE_Detection_Model)
+## Repo Highlights
+
+**Fraud Detection Analysis**  
+Python workflow for scraping, cleaning, and analyzing fraud-related data with risk-focused outputs.  
+`https://github.com/clarktommie/usaa_fraud_detection`
+
+**Capstone Project 2026**  
+End-to-end analytical project: structured data, model development, and performance evaluation.  
+`https://github.com/clarktommie/capstoneProject2026`
+
+**PPE Detection Model**  
+Computer vision classification project for safety-oriented object detection use cases.  
+`https://github.com/clarktommie/PPE_Detection_Model`
 
 ---
 
-## Professional Direction
+## Toolbox
 
-Currently building systems and models focused on underwriting risk, thin-data edge cases, and structured decision-support pipelines.
+`Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `PostgreSQL` `Supabase` `Jupyter` `Git` `GitHub`
 
 ---
 
-## Connect
+## Operating Principles
 
-LinkedIn: https://www.linkedin.com/in/tommie-clark-71249982  
-Portfolio: (add when finalized)
+- Keep models explainable where stakeholders need trust.
+- Optimize for decision quality, not just model score.
+- Build pipelines that survive real-world data messiness.
+- Prefer reproducible workflows over one-off notebooks.
+
+---
+
+## Contact
+
+LinkedIn: `https://www.linkedin.com/in/tommie-clark-71249982`  
+Portfolio: in progress
