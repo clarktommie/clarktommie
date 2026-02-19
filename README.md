@@ -45,20 +45,6 @@ Analysis of hybrid manufacturing job data to evaluate schedule deviation, delay 
 
 ---
 
-## / Technical Profile
-
-#### Tools
-- Python  
-- SQL  
-- Machine Learning  
-
-#### Application Area
-- Manufacturing operations analytics  
-- Production schedule risk analysis  
-- Quality and efficiency monitoring  
-
----
-
 ## / Modeling Philosophy
 
 ```text
