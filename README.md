@@ -29,19 +29,17 @@ Structured data. Controlled pipelines. Production-grade outputs.
 
 ---
 
-## / Featured Manufacturing Project
+## / Manufacturing Project
 
 ### Production Schedule Risk & Efficiency Model  
-Decision-support modeling focused on schedule reliability, operational delay risk, and efficiency optimization within hybrid manufacturing systems.
+Analysis of hybrid manufacturing job data to evaluate schedule deviation, delay risk, and efficiency distribution.
 
-**What it delivers:**
-- Machine-level delay risk concentration analysis  
-- Schedule deviation volatility diagnostics (P90 / P95 instability signals)  
+- Machine-level delay rate analysis  
+- Schedule deviation (P90 / P95) diagnostics  
 - Machine × operation variability benchmarking  
-- Efficiency category distribution analysis  
-- Prioritized intervention roadmap for plant leadership  
+- Efficiency category breakdown  
+- Structured intervention recommendations  
 
-**Repository:**  
 [Production Schedule Risk & Efficiency Model](https://github.com/clarktommie/production-schedule-risk-model)
 
 ---
