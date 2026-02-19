@@ -1,6 +1,6 @@
 # Tommie Clark
-### Data Analyst -> Data Scientist
-#### Financial Risk, Fraud Analytics, and Decision Systems
+### DATA ANALYST -> DATA SCIENTIST
+#### Focus: Financial Risk & Fraud
 
 I build practical machine learning and analytics systems for underwriting, fraud, and financial decision support.
 My lane is clear: structured data, defensible models, and outputs that people can actually use in production.
