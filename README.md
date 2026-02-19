@@ -1,6 +1,16 @@
-# Tommie Clark
+<div align="center">
+
+# TOMMIE CLARK
 ### DATA ANALYST -> DATA SCIENTIST
-#### Focus: Financial Risk & Fraud
+<p><strong>Financial Risk</strong> • <strong>Fraud Analytics</strong> • <strong>Decision Systems</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Analytics-1f6feb?style=for-the-badge" alt="Python Analytics badge" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Systems-0e7490?style=for-the-badge" alt="SQL Data Systems badge" />
+  <img src="https://img.shields.io/badge/ML-Risk%20Modeling-14532d?style=for-the-badge" alt="ML Risk Modeling badge" />
+</p>
+
+</div>
 
 I build practical machine learning and analytics systems for underwriting, fraud, and financial decision support.
 My lane is clear: structured data, defensible models, and outputs that people can actually use in production.
