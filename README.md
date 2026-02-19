@@ -20,7 +20,15 @@ My lane is clear: structured data, defensible models, and outputs that people ca
 
 `Raw data -> validation -> feature engineering -> model training -> evaluation -> decision signal`
 
-I care less about flashy models and more about reliable behavior, interpretability, and measurable lift.
+I care less about flashy models and more about reliable behavior, interpretability, and decision quality.
+
+---
+
+## Right Now
+
+- Expanding underwriting-focused modeling workflows.
+- Strengthening edge-case handling for thin and noisy datasets.
+- Refining reproducible pipelines for faster iteration and review.
 
 ---
 
@@ -28,15 +36,15 @@ I care less about flashy models and more about reliable behavior, interpretabili
 
 **Fraud Detection Analysis**  
 Python workflow for scraping, cleaning, and analyzing fraud-related data with risk-focused outputs.  
-`https://github.com/clarktommie/usaa_fraud_detection`
+[View repository](https://github.com/clarktommie/usaa_fraud_detection)
 
 **Capstone Project 2026**  
 End-to-end analytical project: structured data, model development, and performance evaluation.  
-`https://github.com/clarktommie/capstoneProject2026`
+[View repository](https://github.com/clarktommie/capstoneProject2026)
 
 **PPE Detection Model**  
 Computer vision classification project for safety-oriented object detection use cases.  
-`https://github.com/clarktommie/PPE_Detection_Model`
+[View repository](https://github.com/clarktommie/PPE_Detection_Model)
 
 ---
 
@@ -57,5 +65,5 @@ Computer vision classification project for safety-oriented object detection use 
 
 ## Contact
 
-LinkedIn: `https://www.linkedin.com/in/tommie-clark-71249982`  
+LinkedIn: [tommie-clark-71249982](https://www.linkedin.com/in/tommie-clark-71249982)  
 Portfolio: in progress
