@@ -1,5 +1,5 @@
 # Tommie Clark
-### Modeling risk where decisions have consequences.
+### Data Analyst -> Data Scientist | Financial Risk & Fraud
 
 I build practical machine learning and analytics systems for underwriting, fraud, and financial decision support.
 My lane is clear: structured data, defensible models, and outputs that people can actually use in production.
