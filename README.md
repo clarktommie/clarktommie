@@ -2,18 +2,18 @@
 
 # TOMMIE CLARK
 ### DATA ANALYST -> DATA SCIENTIST
-<p><strong>Financial Risk</strong> • <strong>Fraud Analytics</strong> • <strong>Decision Systems</strong></p>
+<p><strong>Manufacturing Analytics</strong> • <strong>Quality & Process Improvement</strong> • <strong>Decision Systems</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-Analytics-1f6feb?style=for-the-badge" alt="Python Analytics badge" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Systems-0e7490?style=for-the-badge" alt="SQL Data Systems badge" />
-  <img src="https://img.shields.io/badge/ML-Risk%20Modeling-14532d?style=for-the-badge" alt="ML Risk Modeling badge" />
+  <img src="https://img.shields.io/badge/SQL-Production%20Data-0e7490?style=for-the-badge" alt="SQL Production Data badge" />
+  <img src="https://img.shields.io/badge/ML-Quality%20Modeling-14532d?style=for-the-badge" alt="ML Quality Modeling badge" />
 </p>
 
 </div>
 
 <p align="center">
-I build practical machine learning and analytics systems for underwriting, fraud, and financial decision support.
+I build practical machine learning and analytics systems for manufacturing, operations, and production decision support.
 <br/>
 Structured data. Defensible models. Decision-ready outputs.
 </p>
@@ -22,11 +22,11 @@ Structured data. Defensible models. Decision-ready outputs.
 
 ## / What I Work On
 
-- Underwriting risk modeling
-- Fraud analytics and anomaly detection
+- Manufacturing process analytics
+- Quality trend analysis and anomaly detection
 - Regression/classification pipelines
 - ETL and data quality workflows
-- Thin-data and edge-case decision scenarios
+- Production edge-case decision scenarios
 
 ---
 
@@ -42,8 +42,8 @@ I care less about flashy models and more about reliable behavior, interpretabili
 
 ## / Right Now
 
-- Expanding underwriting-focused modeling workflows.
-- Strengthening edge-case handling for thin and noisy datasets.
+- Expanding manufacturing-focused modeling workflows.
+- Strengthening edge-case handling for thin and noisy production datasets.
 - Refining reproducible pipelines for faster iteration and review.
 
 ---
