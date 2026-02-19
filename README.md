@@ -29,11 +29,12 @@ Structured data. Controlled pipelines. Production-grade outputs.
 
 ---
 
-## / Manufacturing Project
+## / Featured Project
 
 ### Production Schedule Risk & Efficiency Model  
 Analysis of hybrid manufacturing job data to evaluate schedule deviation, delay risk, and efficiency distribution.
 
+#### Scope
 - Machine-level delay rate analysis  
 - Schedule deviation (P90 / P95) diagnostics  
 - Machine × operation variability benchmarking  
@@ -41,6 +42,20 @@ Analysis of hybrid manufacturing job data to evaluate schedule deviation, delay 
 - Structured intervention recommendations  
 
 [Production Schedule Risk & Efficiency Model](https://github.com/clarktommie/production-schedule-risk-model)
+
+---
+
+## / Technical Profile
+
+#### Tools
+- Python  
+- SQL  
+- Machine Learning  
+
+#### Application Area
+- Manufacturing operations analytics  
+- Production schedule risk analysis  
+- Quality and efficiency monitoring  
 
 ---
 
@@ -53,3 +68,10 @@ Raw production data
     -> model training
     -> stability diagnostics
     -> decision-ready signal
+```
+
+---
+
+## / Collaboration
+
+Open to manufacturing analytics and production decision-support work.
