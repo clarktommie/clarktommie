@@ -12,12 +12,15 @@
 
 </div>
 
+<p align="center">
 I build practical machine learning and analytics systems for underwriting, fraud, and financial decision support.
-My lane is clear: structured data, defensible models, and outputs that people can actually use in production.
+<br/>
+Structured data. Defensible models. Decision-ready outputs.
+</p>
 
 ---
 
-## What I Work On
+## / What I Work On
 
 - Underwriting risk modeling
 - Fraud analytics and anomaly detection
@@ -27,15 +30,17 @@ My lane is clear: structured data, defensible models, and outputs that people ca
 
 ---
 
-## Current Build Pattern
+## / Current Build Pattern
 
-`Raw data -> validation -> feature engineering -> model training -> evaluation -> decision signal`
+```text
+Raw data -> validation -> feature engineering -> model training -> evaluation -> decision signal
+```
 
 I care less about flashy models and more about reliable behavior, interpretability, and decision quality.
 
 ---
 
-## Right Now
+## / Right Now
 
 - Expanding underwriting-focused modeling workflows.
 - Strengthening edge-case handling for thin and noisy datasets.
@@ -43,7 +48,7 @@ I care less about flashy models and more about reliable behavior, interpretabili
 
 ---
 
-## Repo Highlights
+## / Repo Highlights
 
 **Fraud Detection Analysis**  
 Python workflow for scraping, cleaning, and analyzing fraud-related data with risk-focused outputs.  
@@ -59,13 +64,13 @@ Computer vision classification project for safety-oriented object detection use 
 
 ---
 
-## Toolbox
+## / Toolbox
 
 `Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `PostgreSQL` `Supabase` `Jupyter` `Git` `GitHub`
 
 ---
 
-## Operating Principles
+## / Operating Principles
 
 - Keep models explainable where stakeholders need trust.
 - Optimize for decision quality, not just model score.
@@ -74,7 +79,7 @@ Computer vision classification project for safety-oriented object detection use 
 
 ---
 
-## Contact
+## / Contact
 
 LinkedIn: [tommie-clark-71249982](https://www.linkedin.com/in/tommie-clark-71249982)  
 Portfolio: in progress
